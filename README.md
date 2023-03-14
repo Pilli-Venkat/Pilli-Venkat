@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pilli-Venkat
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning NLLP
+- 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me - venkatasai2920@gmail.com
 
